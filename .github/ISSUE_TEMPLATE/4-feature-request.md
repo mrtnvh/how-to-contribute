@@ -3,7 +3,7 @@ name: "🚀 Feature Request"
 about: "Suggest an idea or possible enhancement for this project."
 title: ""
 labels: enhancement
-assignees: Josee9988
+assignees: vanhoofmaarten
 
 ---
 

@@ -3,7 +3,7 @@ name: "⚠️ Security Report"
 about: "Report an issue to help the project improve."
 title: ""
 labels: bug, security
-assignees: Josee9988
+assignees: vanhoofmaarten
 
 ---
 

@@ -3,7 +3,7 @@ name: "🐞 Bug Report"
 about: "Report an issue to help the project improve."
 title: ""
 labels: bug
-assignees: Josee9988
+assignees: vanhoofmaarten
 
 ---
 
