@@ -1,2 +1,3 @@
-# **vanhoofmaarten's project**
-<!-- Write your own README.md file. Build something amazing! -->
+# How to contribute
+
+An example repository to demonstrate how people can contribute to Open Source Software 
